@@ -6,6 +6,14 @@
     surname: "Doe",
     photo: "https://example.com/photo.jpg",
     balance: 1000.00
+    },
+
+    {
+    id: 23,
+    name: "Jo Doe",
+    surname: "Do",
+    photo: "https://example.com/photo.jpg",
+    balance: 10.00
     }
   ]
 }
