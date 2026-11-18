@@ -1,5 +1,11 @@
 {
   "users": [
-    
+    {
+    id: 1,
+    name: "John Doe",
+    surname: "Doe",
+    photo: "https://example.com/photo.jpg",
+    balance: 1000.00
+    }
   ]
 }
