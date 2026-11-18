@@ -11,7 +11,7 @@
     {
     id: 23,
     name: "Jo Doe",
-    surname: "Do",
+    surname: "can",
     photo: "https://example.com/photo.jpg",
     balance: 10.00
     }
