@@ -2,7 +2,7 @@
   "users": [
     {
     id: 1,
-    name: "John Doe",
+    name: "Ben Dover",
     surname: "Doe",
     photo: "https://example.com/photo.jpg",
     balance: 1000.00
