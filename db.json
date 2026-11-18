@@ -24,4 +24,25 @@
     balance: 1.488
     }
   ]
+  products: [
+    {
+    id: 1,
+    name: "Безперебійник VOLT POLSKA",
+    photo: "https://ireland.apollo.olxcdn.com:443/v1/files/6qkumc00lu4t3-UA/image;s=1200x0",
+    price: 350.00,
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    location: "Київ",
+    date: "18 листопада"
+    },
+    
+    {
+    id: 2,
+    name: "Оригінальна турбіна Mercedes-Benz 2.0 M274 (A2740903280)",
+    photo: "https://ireland.apollo.olxcdn.com:443/v1/files/6qkumc00lu4t3-UA/image;s=1200x0",
+    price: 1500.00,
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    location: "Київ",
+    date: "18 листопада"
+    }
+  ]
 }
